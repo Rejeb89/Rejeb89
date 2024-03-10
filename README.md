@@ -5,7 +5,7 @@ About Me ℹ️
 💻 I specialize in front-end development using HTML, CSS, JavaScript, and frameworks like React.js .
 🌟 My goal is to create delightful user experiences and pixel-perfect designs.
 📚 I love learning new technologies and exploring innovative ways to solve problems.
-🌐 You can find me on LinkedIn[LinkedIn](https://www.linkedin.com/in/mohamed-rejeb-abab94142/) to connect and collaborate.
+🌐 You can find me on [LinkedIn](https://www.linkedin.com/in/mohamed-rejeb-abab94142/) to connect and collaborate.
 💔 Lost Access to my first [GitHub Account](https://github.com/Rjb89)
 What I'm Working On 💼
 🚀 Currently, I'm working on building responsive web applications using the latest front-end technologies.
